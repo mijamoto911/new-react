@@ -1,6 +1,6 @@
 import './Footer.css'
 const Footer = () => {
-    return <div className="footer">
+    return <div className = "footer" >
         By React!
         </div>
 }
