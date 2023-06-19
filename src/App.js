@@ -1,8 +1,7 @@
-// import { createElement } from "react";
+import { Routes, Route } from "react-router-dom";
 import Header from "./components/Header/Header";
 import Footer from "./components/Footer/Footer";
 import Main from "./components/Main/Main";
-import { FRAME } from "./components/Constants/Constants";
 
 const App = () => {
   return (
@@ -16,7 +15,7 @@ const App = () => {
       }}
     >
       <Header />
-      <Main frame={FRAME} />
+      <Main />
       <Footer />
     </div>
   );

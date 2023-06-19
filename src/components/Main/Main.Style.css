@@ -3,11 +3,11 @@
   flex-grow: 1;
 }
 
-.left-column,
+/* .left-column,
 .right-column {
   flex: 1;
   padding: 40px;
-  background-color: black;
+  background-color: aqua;
   text-align: center;
 }
 
@@ -18,7 +18,7 @@
 
 .left-sidebar {
   width: 200px;
-  background-color: black;
+  background-color: aqua;
   font-size: 15px;
   list-style: none;
   text-align: left;
@@ -27,4 +27,4 @@
 
 .right-img {
   padding-top: 20px;
-}
+} */

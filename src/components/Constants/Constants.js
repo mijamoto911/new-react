@@ -1,4 +1,4 @@
-export const FRAME = [
+export const TODOS = [
   {
     library: "React",
     color: "blue",
