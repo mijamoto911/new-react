@@ -1,11 +1,9 @@
+import "./style.css";
+
 const Contact = () => {
   return (
-    <div
-      style={{
-        color: "black",
-      }}
-    >
-      Contact
+    <div className="container-contact">
+      <h1 className="contact">Contact</h1>
     </div>
   );
 };
