@@ -1,0 +1,21 @@
+* {
+  box-sizing: border-box;
+}
+body {
+  margin: 0;
+  min-width: 250px;
+}
+
+.container-list {
+  width: 100%;
+  background-color: rgb(13, 108, 190);
+  text-align: center;
+  color: black;
+}
+/* .list {
+  list-style: none;
+} */
+.select {
+  font-size: 15px;
+  padding: 8px;
+}

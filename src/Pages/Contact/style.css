@@ -1,0 +1,17 @@
+* {
+  box-sizing: border-box;
+}
+body {
+  margin: 0;
+  min-width: 250px;
+}
+
+.container-contact {
+  width: 100%;
+  background-color: rgb(200, 224, 20);
+  text-align: center;
+  color: black;
+}
+.contact {
+  font-size: 30px;
+}

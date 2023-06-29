@@ -49,6 +49,17 @@ const Header = () => {
             Contact
           </Link>
         </li>
+        <li>
+          <Link
+            to="UserLists"
+            style={{
+              color: "white",
+              textDecoration: "none",
+            }}
+          >
+            User-list
+          </Link>
+        </li>
       </ul>
     </div>
   );

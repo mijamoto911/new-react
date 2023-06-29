@@ -1,11 +1,8 @@
+import "./style.css";
 const Home = () => {
   return (
-    <div
-      style={{
-        color: "black",
-      }}
-    >
-      Home
+    <div className="container-home">
+      <h1 className="title">Home</h1>
     </div>
   );
 };

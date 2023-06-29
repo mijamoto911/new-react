@@ -1,5 +1,5 @@
 import React, { useState } from "react";
-import "./TodoList.css";
+import "./style.css";
 
 const TodoList = () => {
   const [todos, setTodos] = useState([]);
@@ -68,7 +68,7 @@ const TodoList = () => {
   };
 
   return (
-    <div className="container" style={{ textAlign: "center" }}>
+    <div className="container-todo">
       <h1 className="title">Todo List</h1>
       <input
         className="input"
