@@ -35,7 +35,6 @@ body {
 }
 .button {
   position: relative;
-
   font-weight: 50;
   font-size: 16px;
   background-color: #0d75ec;
@@ -43,8 +42,8 @@ body {
   color: #ffffff;
   cursor: pointer;
   outline: none;
-  width: 50px;
-  height: 40px;
+  width: 80px;
+  height: 30px;
   border-radius: 5px;
   font-family: "Poppins", sans-serif;
 }

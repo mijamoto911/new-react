@@ -7,11 +7,24 @@ body {
 }
 
 .container-contact {
+  text-align: center;
   width: 100%;
   background-color: rgb(200, 224, 20);
-  text-align: center;
   color: black;
 }
-.contact {
-  font-size: 30px;
+
+.form {
+  margin-top: 10px;
+  margin-left: 5px;
+  padding: 5px;
+}
+.email {
+  margin-bottom: 5px;
+  padding: 5px;
+}
+
+.phone {
+  margin-top: 5px;
+  margin-bottom: 5px;
+  padding: 5px;
 }
